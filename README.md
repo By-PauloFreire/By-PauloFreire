@@ -1,7 +1,7 @@
 ## 👋  Hello, my name is Paulo Freire!
 
 
-##### I'm an InfoSec Analyst who's recently focusing in software development. I've done some fullstack projects, and I'll be uploading here some of my past work, and future projects. 
+##### I'm an InfoSec Analyst who's recently focusing in software development. I've done some fullstack projects and I'll be uploading here some of my past work, and future projects. 
 
 ##### I'm particularly interested in A.I., and although I have no academic or professional experience in the area, I've been studying psychology and Machine Learning in free M.I.T. and Yale courses on Youtube, and theorizing about intelligence models for Artificial General Intelligence. If you're also interested in this type of research, feel free to get in touch.
 
