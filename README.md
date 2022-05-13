@@ -1,14 +1,18 @@
 ## 👋  Hello, my name is Paulo Freire!
 
+
 ##### I'm an InfoSec Analyst who's recently focusing in software development. I've done some fullstack projects, and I'll be uploading here some of my past work, and future projects. 
 
 ##### I'm particularly interested in A.I., and although I have no academic or professional experience in the area, I've been studying psychology and Machine Learning in free M.I.T. and Yale courses on Youtube, and theorizing about intelligence models for Artificial General Intelligence. If you're also interested in this type of research, feel free to get in touch.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=By-PauloFreire&langs_count=10&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![image](https://media2.giphy.com/media/MF1kR4YmC2Z20/giphy.gif?cid=790b76117db0d847af324c5a357d296c38cf19f00a40cbe4&rid=giphy.gif&ct=g)
 
 
 
 
-## Some of the tech's I've used in the past
+## Some of the tech's I've used in the past:
 ![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -34,11 +38,10 @@
 ![image](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
 
 
+## Personal info:
 - 📫 E-mail: paulofreire.si@outlook.com
 - :earth_americas: Earth citizen - based in Rio de Janeiro, RJ :beach_umbrella:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=By-PauloFreire&langs_count=10&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-![image](https://media2.giphy.com/media/MF1kR4YmC2Z20/giphy.gif?cid=790b76117db0d847af324c5a357d296c38cf19f00a40cbe4&rid=giphy.gif&ct=g)
 
 
 <!--
