@@ -41,6 +41,8 @@
 ## Personal info:
 - 📫 E-mail: paulofreire.si@outlook.com
 - :earth_americas: Earth citizen - based in Rio de Janeiro, RJ :beach_umbrella:
+ 
+ ##### ![ViewCount](https://komarev.com/ghpvc/?username=By-PauloFreire&color=dc143c)
 
 
 
