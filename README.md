@@ -3,8 +3,6 @@
 
 ##### I'm an InfoSec Analyst who's recently focusing in software development. I've done some fullstack projects and I'll be uploading here some of my past work, and future projects. 
 
-##### I'm particularly interested in General A.I., and although I have no academic or professional experience in the area, I've been studying psychology and Machine Learning in free M.I.T. and Yale courses on Youtube, and theorizing about intelligence models for Artificial General Intelligence. If you're also interested in this type of research, feel free to get in touch.
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=By-PauloFreire&langs_count=8&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![image](https://media2.giphy.com/media/MF1kR4YmC2Z20/giphy.gif?cid=790b76117db0d847af324c5a357d296c38cf19f00a40cbe4&rid=giphy.gif&ct=g)
